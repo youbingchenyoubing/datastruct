@@ -1,2 +1,2 @@
 new github 
-the file
+the file is contains of new idea
